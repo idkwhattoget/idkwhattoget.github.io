@@ -8,5 +8,6 @@ body {
 
 .subtext {
     color: grey;
-    font-size: 10px;
+    font-size: 15px;
+    margin-top: 0;
 }
