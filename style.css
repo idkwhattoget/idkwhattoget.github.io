@@ -11,3 +11,7 @@ body {
     font-size: 15px;
     margin-top: 0;
 }
+
+.about-section {
+    max-width: 1000px;
+}
