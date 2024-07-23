@@ -5,3 +5,8 @@ body {
 
     font-family: Verdana, Arial, sans-serif;
 }
+
+.subtext {
+    color: grey;
+    font-size: 10px;
+}
